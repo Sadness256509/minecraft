@@ -21,4 +21,4 @@
 <body>
 <a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
 </body>
-<h1>IP сервера------> sadnessgaming.mcsh.io </h1>
+<h1>IP сервера------> sadnessgaming.mcsh.io версия 1.20.1</h1>
