@@ -1,4 +1,5 @@
 <h1>Преглашаю тебя поиграть со мной в майнкрафт</h1>
+<div style="background-image: url('фон.jpg');">
 <body>
 <a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
 </body>
