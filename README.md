@@ -1,7 +1,7 @@
 <h1>Преглашаю тебя поиграть со мной в майнкрафт</h1>
 <style>
 body {
-  background-image: url('fonn.jpg');
+  background-image: url('fonnn.jpg');
   background-repeat: no-repeat;
   background-size: 1920px 1080px
 }
