@@ -1,5 +1,12 @@
 <h1>Преглашаю тебя поиграть со мной в майнкрафт</h1>
-<div style="background-image: url('фон.jpg');">
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 <body>
 <a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
 </body>
