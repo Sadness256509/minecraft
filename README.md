@@ -2,9 +2,7 @@
 <style> body { 
     background-image: url('fonnnn.jpg'); 
     background-repeat: no-repeat; 
-   
     background-size: 1920px 1080px
-
 } 
 </style>
 <body>
