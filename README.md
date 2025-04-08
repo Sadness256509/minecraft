@@ -9,13 +9,4 @@
 <a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
 </body>
 <h1>IP сервера------> sadnessgaming.mcsh.io версия 1.20.1</h1>
-@media(max-width: 992px){
-/*Стили, на устройствах с максимальной ширеной экрана 992 пикселя и меньше */
-}
-@media(max-width: 768px){
-/*Стили, на устройствах с максимальной ширеной экрана 768 пикселей и меньше */ 
-}
-
-@media(max-width: 500px){
-/*Стили, на устройствах с максимальной ширеной экрана 500 пикселей и меньше */
-}
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
